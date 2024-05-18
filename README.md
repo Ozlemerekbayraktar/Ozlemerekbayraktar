@@ -13,6 +13,7 @@ In my projects, I leverage GitHub for version control and collaboration. This al
 On this page, you'll find a collection of projects related to data analysis. From exploratory data analysis to machine learning models, I enjoy diving into datasets to extract meaningful insights and drive informed decision-making.
 
 📫 Feel free to explore my repositories and reach out to me for any collaboration opportunities or discussions related to data analysis and technology.
+https://www.linkedin.com/in/ozlem-erek-bayraktar-58446257
 
 Thank you for visiting my GitHub profile!
 
